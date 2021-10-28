@@ -1,10 +1,31 @@
-# Criando e Treinando um Chatbot utilizando técnicas de Machine Learning e Python 
+<p align="center">
+  <a href="https://unform.dev">
+    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
+  </a>
+</p>
+<h1 align="center">Criando e Treinando um Chatbot utilizando técnicas de Machine Learning e Python </h1> 
 
-+ É um mini curso feito pela UNISAL realizado na semana da computação
-+ A trilha escolhida foi a 3
+<p align="center">É um mini curso feito pela UNISAL realizado na semana da computação</p>
 
-## Sinopse 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#Instalação)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
+<h4 align="center"> 
+  🚧  Em desenvolvimento.  🚧
+</h4>
+
+## Sobre
+
+É um mini curso feito pela UNISAL realizado na semana da computação
+    + A trilha escolhida foi a 3ª
 
 1) Inicialmente, no primeiro dia serão apresentados os fundamentos de Machine Learning e preparado o ambiente de desenvolvimento – também será apresentado um pequeno exemplo. 
 
@@ -12,7 +33,18 @@
 
 3) No terceiro e último dia será treinado o Chatbot e implementada a interface para interação usando TKinter.
 
-# Como Usar
+## Tabela de conteudo
+
+- [x] Chat bot para Telegram
+- [ ] Chat bot com voz
+- [ ] Chat bot de Whatsapp
+
+## Instalação
+
+Falar como instalar o programa na maquina
+Falar tambem como deve ser instalado bibliotecas ou arquivos adicionais
+
+## Como usar
 
 ABRIR O VISUAL STUDIO CODE COMO ADMINISTRADOR.
 
@@ -74,3 +106,18 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_lg
 python -m spacy download en_core_web_sm
 python -m spacy download en
+
+## Pre Requisitos
+
+Falar sobre o que precisa para rodar o programa e como
+
+## Tecnologias
+
+<table>
+    <tr>
+    <td>Python</td>
+    </tr>
+    <tr>
+    <td>3.7.8</td>
+    </tr>
+</table>
